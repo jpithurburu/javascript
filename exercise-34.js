@@ -1,4 +1,4 @@
-//Comparison between two positive numbers entered by the user with validation.
+//Comparison between two positive numbers entered by the user with input validation.
 
 'use strict'
 
